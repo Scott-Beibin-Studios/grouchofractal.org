@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://scott-beibin-studios.github.io/grouchofractal.org/sitemap.xml

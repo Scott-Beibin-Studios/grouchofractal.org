@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Groucho Fractal",
+    "description": "",
+    "home_page_url": "https://scott-beibin-studios.github.io/grouchofractal.org",
+    "feed_url": "https://scott-beibin-studios.github.io/grouchofractal.org/feed.json",
+    "user_comment": "",
+    "icon": "https://scott-beibin-studios.github.io/grouchofractal.org/media/website/grouchofractal.org-v.1-top-logo.png",
+    "author": {
+        "name": "Me me"
+    },
+    "items": [
+        {
+            "id": "https://scott-beibin-studios.github.io/grouchofractal.org/second-post.html",
+            "url": "https://scott-beibin-studios.github.io/grouchofractal.org/second-post.html",
+            "title": "Second post",
+            "summary": "Blah bla",
+            "content_html": "<p>Blah bla<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/signal-2022-01-31-184909_001.jpeg\" alt=\"\" width=\"1536\" height=\"2048\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/responsive/signal-2022-01-31-184909_001-xs.jpeg 300w ,https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/responsive/signal-2022-01-31-184909_001-sm.jpeg 480w ,https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/responsive/signal-2022-01-31-184909_001-md.jpeg 768w ,https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/responsive/signal-2022-01-31-184909_001-lg.jpeg 1024w\"></figure>",
+            "image": "https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/signal-2022-01-31-184909_001-2.jpeg",
+            "author": {
+                "name": "Me me"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-26T15:44:08-04:00",
+            "date_modified": "2023-10-26T15:50:18-04:00"
+        },
+        {
+            "id": "https://scott-beibin-studios.github.io/grouchofractal.org/groucho-fractal.html",
+            "url": "https://scott-beibin-studios.github.io/grouchofractal.org/groucho-fractal.html",
+            "title": "Groucho Fractal!!",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/Screen-Shot-2021-04-06-at-11.47.18-PM.png\" data-size=\"2636x1914\"><img loading=\"lazy\" src=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/Screen-Shot-2021-04-06-at-11.47.18-PM-thumbnail.png\" alt=\"\" width=\"720\" height=\"523\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/Groucho-Fractal-Chakrastronaut.png\" data-size=\"960x958\"><img loading=\"lazy\" src=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/Groucho-Fractal-Chakrastronaut-thumbnail.png\" alt=\"\" width=\"720\" height=\"719\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/signal-2022-01-31-184909_001.jpeg\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/signal-2022-01-31-184909_001-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/signal-2022-06-13-053429_003.jpeg\" data-size=\"1200x1600\"><img loading=\"lazy\" src=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/signal-2022-06-13-053429_003-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Me me"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-25T17:13:10-04:00",
+            "date_modified": "2023-10-25T17:13:10-04:00"
+        }
+    ]
+}

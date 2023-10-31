@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://scott-beibin-studios.github.io/grouchofractal.org/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://scott-beibin-studios.github.io/grouchofractal.org/</loc>
+</url>
+<url>
+<loc>https://scott-beibin-studios.github.io/grouchofractal.org/about.html</loc>
+<lastmod>2023-10-26T16:08:37-04:00</lastmod>
+<image:image>
+<image:loc>https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/3/Screen-Shot-2021-04-06-at-11.40.17-PM.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://scott-beibin-studios.github.io/grouchofractal.org/groucho-fractal.html</loc>
+<lastmod>2023-10-25T17:13:10-04:00</lastmod>
+<image:image>
+<image:loc>https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/Screen-Shot-2021-04-06-at-11.47.18-PM-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/Groucho-Fractal-Chakrastronaut-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/signal-2022-01-31-184909_001-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/1/gallery/signal-2022-06-13-053429_003-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://scott-beibin-studios.github.io/grouchofractal.org/second-post.html</loc>
+<lastmod>2023-10-26T15:50:18-04:00</lastmod>
+<image:image>
+<image:loc>https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/signal-2022-01-31-184909_001-2.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/signal-2022-01-31-184909_001.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
