@@ -13,7 +13,7 @@
         {
             "id": "https://scott-beibin-studios.github.io/grouchofractal.org/second-post.html",
             "url": "https://scott-beibin-studios.github.io/grouchofractal.org/second-post.html",
-            "title": "Second post",
+            "title": "Second post (githubbb!)",
             "summary": "Blah bla",
             "content_html": "<p>Blah bla<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/signal-2022-01-31-184909_001.jpeg\" alt=\"\" width=\"1536\" height=\"2048\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/responsive/signal-2022-01-31-184909_001-xs.jpeg 300w ,https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/responsive/signal-2022-01-31-184909_001-sm.jpeg 480w ,https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/responsive/signal-2022-01-31-184909_001-md.jpeg 768w ,https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/responsive/signal-2022-01-31-184909_001-lg.jpeg 1024w\"></figure>",
             "image": "https://scott-beibin-studios.github.io/grouchofractal.org/media/posts/2/signal-2022-01-31-184909_001-2.jpeg",
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2023-10-26T15:44:08-04:00",
-            "date_modified": "2023-10-26T15:50:18-04:00"
+            "date_modified": "2023-10-31T11:07:35-04:00"
         },
         {
             "id": "https://scott-beibin-studios.github.io/grouchofractal.org/groucho-fractal.html",
